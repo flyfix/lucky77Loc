@@ -1,0 +1,12 @@
+ [
+        {
+            "beaconId" : "31364719343730393F0430",
+            "wristId" : "wrist1",
+            "name" : "Running-Igor"
+        },
+        {
+            "beaconId" : "31364719343730393F0430",
+            "wristId" : "wrist2",
+            "name" : "Crazy-Doctor"
+        }
+    ]
